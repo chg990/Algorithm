@@ -1,6 +1,5 @@
 ## Algorithm Repository
 
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyun9d)](https://solved.ac/hyun9d)
 
 - 사용 언어 : C++
@@ -10,6 +9,7 @@
 ----
 
 > 폴더 분류
+
 - Algorithm : 알고리즘 정리하는 곳
 
 - BaekJoon : 백준 알고리즘 문제 풀이
