@@ -8,7 +8,7 @@
 
 > 폴더 분류
 
-- Algorithm : 알고리즘 정리하는 곳
+- Algorithm : 알고리즘 정리
 
 - BaekJoon : 백준 알고리즘 문제 풀이
   
