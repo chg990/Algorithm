@@ -1,0 +1,17 @@
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+
+int main()
+{
+	long long n;
+	long long m;
+	long long r;
+
+	scanf("%lld %lld", &n, &m);
+
+	r = (n >= m) ? (n - m) : (m - n); // (조건) ? (조건이 참일 때 수행) : (조건이 거짓일 때 수행)
+
+	printf("%lld", r);
+
+	return 0;
+}
