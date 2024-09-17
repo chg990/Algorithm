@@ -6,6 +6,7 @@ int main(){
     
     cin >> A;
     cin >> B;
+    
     cout << A * B;
     return 0;
 }
