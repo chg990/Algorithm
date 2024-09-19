@@ -1,13 +1,9 @@
 #include <iostream>
 using namespace std;
 
-int main() {
-	long long a, b, c;
-    
-	cin >> a;
-	cin >> b;
-	cin >> c;
-    
-	cout << a + b + c;
-	return 0;
+int main(){
+    long long a, b, c;
+    cin >> a >> b >> c;
+    cout << a + b + c;
+    return 0;
 }
