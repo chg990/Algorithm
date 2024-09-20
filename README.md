@@ -2,7 +2,7 @@
 
 - 사용 언어 : C++
   
-- 문제풀이 사이트 : [백준](https://www.acmicpc.net) / [프로그래머스](https://www.programmers.co.kr)
+- 문제풀이 사이트 : 백준 / 프로그래머스
 
 ----
 
