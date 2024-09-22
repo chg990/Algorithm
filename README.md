@@ -1,4 +1,4 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyun9d)](https://solved.ac/hyun9d)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=)](https://solved.ac/hyun9d)
 
 - 사용 언어 : C++
   
